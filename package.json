@@ -11,6 +11,9 @@
   "license": "ISC",
   "description": "",
   "type": "module",
+  "engines": {
+    "node": ">=20.0.0 <22.0.0"
+  },
   "dependencies": {
     "@apollo/server": "^5.5.0",
     "graphql": "^16.13.2",
